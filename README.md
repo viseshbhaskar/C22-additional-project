@@ -1,2 +1,2 @@
-# C22-additional-project
-Additional project for C22 Class
+# p5.play-boilerplate
+Boiler plate for p5.play
